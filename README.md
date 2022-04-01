@@ -13,7 +13,8 @@
 
 Информация о роли гистоновых меток взята из англоязычной википедии
 ## Выдача после ChromHMM
-![image](https://user-images.githubusercontent.com/93160309/161303236-6d7defc2-b8ef-4fdb-8bbd-a76f0dc87700.png) ![image](https://user-images.githubusercontent.com/93160309/161303312-44a2f37b-65c3-47d2-a193-654d6ed4a98e.png) ![image](https://user-images.githubusercontent.com/93160309/161303358-ccc22544-1d2a-4acb-b951-e60414b7a1d4.png) ![image](https://user-images.githubusercontent.com/93160309/161303427-0e76ebba-c9d1-483a-8d19-3c511e663c40.png) ![image](https://user-images.githubusercontent.com/93160309/161303459-4156a3fe-d218-47b0-836b-56f9089ec570.png)
+|![image](https://user-images.githubusercontent.com/93160309/161303236-6d7defc2-b8ef-4fdb-8bbd-a76f0dc87700.png)| ![image](https://user-images.githubusercontent.com/93160309/161303312-44a2f37b-65c3-47d2-a193-654d6ed4a98e.png)| ![image](https://user-images.githubusercontent.com/93160309/161303358-ccc22544-1d2a-4acb-b951-e60414b7a1d4.png)| ![image](https://user-images.githubusercontent.com/93160309/161303427-0e76ebba-c9d1-483a-8d19-3c511e663c40.png)| ![image](https://user-images.githubusercontent.com/93160309/161303459-4156a3fe-d218-47b0-836b-56f9089ec570.png)|
+| ------------- | ------------- |--------------------| -- | -- |
 
 
 
