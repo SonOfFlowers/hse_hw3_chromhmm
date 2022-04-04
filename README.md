@@ -32,4 +32,7 @@
 ## Скрины, на основе которых я делал выводы
 ![image](https://user-images.githubusercontent.com/93160309/161610977-30fcdaed-9df8-47f2-a766-9b75427dabdb.png) ![image](https://user-images.githubusercontent.com/93160309/161611840-3d7c3629-2999-4df5-b66f-134f132d629c.png) ![image](https://user-images.githubusercontent.com/93160309/161611994-8fd028a8-0d3b-4e8a-83bd-08dd2fd21629.png)
 
+## Бонусная часть
+![image](https://user-images.githubusercontent.com/93160309/161617669-654f1962-16cd-42db-9be6-8e8a5beaffeb.png) ![image](https://user-images.githubusercontent.com/93160309/161617756-9a2153fe-777a-426d-a90f-38ddbbfa328a.png)
 
+Я это сделал изменив в dense файле цифры на нужные обозначения
